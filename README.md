@@ -17,7 +17,7 @@ Object detection models, like YOLO (You Only Look Once), are widely used in comp
 ## Usage
 
 1. Clone this repository to your local machine.
-2. Ensure you have Python installed along with the required dependencies listed in `requirements.txt`.
+2. Ensure you have Python installed along with the required dependencies listed below.
 3. Update the paths to the YOLO model file (`best.pt`), data configuration file (`custom_data.yaml`), and output directory (`Files/`) in the script.
 4. Run the script `yolo_val_for_all_classes.py`.
 5. View the generated CSV files containing evaluation results for each confidence threshold.
