@@ -35,6 +35,6 @@ Credits
 This code is inspired by the Ultralytics YOLO repository and extends its functionality to perform validation for all classes across different confidence thresholds.
 License
 
-This project is licensed under the MIT License.
+This project is licensed under the GNU 3 License.
 
 Feel free to customize this description to better fit your repository's specifics and add any additional information or features you deem necessary.
