@@ -31,7 +31,7 @@ Object detection models, like YOLO (You Only Look Once), are widely used in comp
 
 ## Credits
 
-This code is inspired by the [Ultralytics YOLO](https://github.com/ultralytics/yolov5) repository and extends its functionality to perform validation for all classes across different confidence thresholds.
+This code is inspired by the [Ultralytics YOLO](https://github.com/ultralytics/yolov8) repository and extends its functionality to perform validation for all classes across different confidence thresholds.
 
 ## License
 
