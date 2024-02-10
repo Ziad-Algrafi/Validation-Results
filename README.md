@@ -1,6 +1,6 @@
 # YOLO Validation for All Classes
 
-This repository contains Python code for performing YOLO object detection validation across various confidence thresholds for all classes. The script evaluates a YOLO model's performance on a custom dataset, computing metrics such as Mean Average Precision (MAP) and other metrics for each class at different confidence thresholds.
+This repository contains Python code for performing YOLO object detection validation across various confidence thresholds for all classes and outputing the results in excel file. The script evaluates a YOLO model's performance on a custom dataset, computing metrics such as Mean Average Precision (MAP) and other metrics for each class at different confidence thresholds.
 
 ## Overview
 
